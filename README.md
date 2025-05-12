@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 24-04-2025
+### DATE: 12/05/2025
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -61,8 +61,8 @@
 ## Output:
 ![Screenshot 2025-04-24 152748](https://github.com/user-attachments/assets/6a917d1a-c94c-492c-a0d8-9ca41fbaa48d)
 
-### Name: DODLA SUSMITHA
-### Register Number:212224110016
+### Name: SAVISH R
+### Register Number:212224230257
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
